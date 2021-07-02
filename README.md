@@ -8,5 +8,5 @@
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsp.depositphotos.com%2Fvector-images%2Fcuchara-y-tenedor.html&psig=AOvVaw0c434WoQB0TIzqySGwc198&ust=1625350002405000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNjup96yxfECFQAAAAAdAAAAABAD)
 
 ## Tercer Dataset es un dataset para la segmentacion de imagenes de autos
-[Link del Drive](https://drive.google.com/file/d/1nDVPUW8ZwdKTbmV-wYvMKSB66lromkVd/view?usp=sharing)
+[Link del Drive](https://drive.google.com/drive/folders/1mx_c8Ygmp7UxKGgrXxZykKBIDy3W1QaR?usp=sharing)
 
